@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b938a805-7849-4caa-9b4e-bbfe93d811b6" name="Changes" comment="Juego FIZZ-BUZZ">
-      <change afterPath="$PROJECT_DIR$/EjerciciosPython/AreaPoligono.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosPython/GeneradorEmails.py" afterDir="false" />
+    <list default="true" id="b938a805-7849-4caa-9b4e-bbfe93d811b6" name="Changes" comment="Ejercicios python">
+      <change afterPath="$PROJECT_DIR$/EjerciciosPython/ConversionTipoDatos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosPython/EjemConvTiposDatos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +37,15 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.AreaPoligono.executor": "Run",
+    "Python.ConversionTipoDatos.executor": "Run",
+    "Python.EjemConvTiposDatos.executor": "Run",
     "Python.FizzBuzz.executor": "Run",
     "Python.GeneradorEmails.executor": "Run",
+    "Python.buscar_subcadena.executor": "Run",
+    "Python.formateo_cadenas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -67,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731757689346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicios python">
+      <option name="closed" value="true" />
+      <created>1732563556774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732563556774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Juego FIZZ-BUZZ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Juego FIZZ-BUZZ" />
+    <MESSAGE value="Ejercicios python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios python" />
   </component>
 </project>
